@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-light-dark-mode/static/css/main.b91d1e49.css",
+    "main.js": "/fcc-light-dark-mode/static/js/main.e27c33af.js",
+    "static/js/453.1552cdbc.chunk.js": "/fcc-light-dark-mode/static/js/453.1552cdbc.chunk.js",
+    "index.html": "/fcc-light-dark-mode/index.html",
+    "main.b91d1e49.css.map": "/fcc-light-dark-mode/static/css/main.b91d1e49.css.map",
+    "main.e27c33af.js.map": "/fcc-light-dark-mode/static/js/main.e27c33af.js.map",
+    "453.1552cdbc.chunk.js.map": "/fcc-light-dark-mode/static/js/453.1552cdbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b91d1e49.css",
+    "static/js/main.e27c33af.js"
+  ]
+}
